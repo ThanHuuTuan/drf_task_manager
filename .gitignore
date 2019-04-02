@@ -1,0 +1,12 @@
+__pycache__/
+env/
+venv/
+target/
+.env
+/env
+/venv
+project.db
+.idea/
+*/__pycache__/
+*.pyc
+log/
